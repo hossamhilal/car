@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CairoRegular';
+    src: url('../fonts/CairoRegular.eot');
+    src: url('../fonts/CairoRegular.eot') format('embedded-opentype'),
+         url('../fonts/CairoRegular.woff2') format('woff2'),
+         url('../fonts/CairoRegular.woff') format('woff'),
+         url('../fonts/CairoRegular.ttf') format('truetype'),
+         url('../fonts/CairoRegular.svg#CairoRegular') format('svg');
+}
