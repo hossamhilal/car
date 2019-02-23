@@ -25,7 +25,7 @@
 
 body {
     font-family: 'CairoRegular';
-    background-color: #f3f3f3;
+    background-color: #fff;
 }
 
 *:focus {
@@ -68,7 +68,7 @@ select {
 }
 
 .navbar-default {
-    background-color: #f3f3f3
+    background-color: #fff;
 }
 
 .navbar>.container .navbar-brand,
